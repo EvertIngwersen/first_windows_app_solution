@@ -33,7 +33,7 @@
             // 
             // btnClickThis
             // 
-            this.btnClickThis.Location = new System.Drawing.Point(280, 207);
+            this.btnClickThis.Location = new System.Drawing.Point(214, 118);
             this.btnClickThis.Name = "btnClickThis";
             this.btnClickThis.Size = new System.Drawing.Size(171, 42);
             this.btnClickThis.TabIndex = 0;
@@ -45,7 +45,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(668, 296);
             this.Controls.Add(this.btnClickThis);
             this.Name = "Form1";
             this.Text = "Form1";
