@@ -34,7 +34,7 @@
             // 
             // btnClickThis
             // 
-            this.btnClickThis.Location = new System.Drawing.Point(214, 118);
+            this.btnClickThis.Location = new System.Drawing.Point(207, 113);
             this.btnClickThis.Name = "btnClickThis";
             this.btnClickThis.Size = new System.Drawing.Size(171, 42);
             this.btnClickThis.TabIndex = 0;

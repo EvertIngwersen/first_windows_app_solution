@@ -22,7 +22,7 @@ namespace first_windows_app
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            lblHelloWorld.Text = "Hallo";
         }
 
         private void Form1_Load(object sender, EventArgs e)
